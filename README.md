@@ -1,2 +1,2 @@
 # makima_reze-demo
-My first repository and i love maima
+My first repository and i love makima
